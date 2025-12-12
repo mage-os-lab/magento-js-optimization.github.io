@@ -1,0 +1,37 @@
+{"0": {
+    "doc": "Custom JS components",
+    "title": "Custom JS components",
+    "content": "… . ",
+    "url": "/docs/custom-js-components.html",
+    
+    "relUrl": "/docs/custom-js-components.html"
+  },"1": {
+    "doc": "How JS optimizer works",
+    "title": "How JS optimizer works",
+    "content": "… . ",
+    "url": "/docs/how-js-optimizer-works.html",
+    
+    "relUrl": "/docs/how-js-optimizer-works.html"
+  },"2": {
+    "doc": "Home",
+    "title": "Welcome",
+    "content": "This is the homepage of your Magento JS Optimization docs. ",
+    "url": "/#welcome",
+    
+    "relUrl": "/#welcome"
+  },"3": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"4": {
+    "doc": "Why optimize js on Magento",
+    "title": "Why optimize js on Magento",
+    "content": "… . ",
+    "url": "/docs/why-optimize-js-on-magento.html",
+    
+    "relUrl": "/docs/why-optimize-js-on-magento.html"
+  }
+}

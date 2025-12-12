@@ -1,0 +1,18 @@
+title: "Magento JS Optimization"
+description: "Docs site"
+url: "https://magento-js-optimization.github.io"
+baseurl: ""
+
+# Remote theme
+remote_theme: pmarsceill/just-the-docs
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+devdocs:
+  sidebar: true
+  search: true
